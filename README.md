@@ -2,7 +2,7 @@
 
 Freelance/Contract Developer/Consultant - Excel/VBA Specialist, MI Automation, Spreadsheet Solutions
 
-#### About me
+#### About Me
 
 An outcome driven MI developer with a proven track record of developing low-impact processes that create high-impact outputs. Specialises in efficiently turning mass data input into aesthetic and easy-to-understand visuals, insights and analytics. Uses dynamic, flexible and pragmatic approaches to tackle complex business needs, converting challenging requirements into creative bespoke solutions.
 
@@ -14,11 +14,10 @@ Looking to expand from tactical implementations into more strategic, web-based s
 
 Advanced knowledge of Microsoft Excel, developing automated macros, Management Information and tactical toolsets.
 12 years experience in data management for project departments within Financial Services, Construction, Event Management and Consultancy.  
-Achievements:  
+
+####Achievements:  
+
    Developed data capture and automated collection process for regulatory reporting returns (under the Retail Distribution Review, Short Selling Regime and EMIR regulations) for the Financial Conduct Authority.  
-   Example templates:  
-   https://www.fca.org.uk/publication/forms/ps-form-template.xlsx  
-   https://www.fca.org.uk/publication/forms/ssr-share-notification-form.xlsx
 
    Automation of monthly finance reporting processes, covering 680 workstreams across 18 portfolios for Balfour Beatty's "Area 10" project.
 
@@ -43,12 +42,7 @@ Achievements:
 
 #### Makers Academy (April 2017 to June 2017)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ongoing
 
 #### Leeds University (Bretton Hall) (September 2000 to June 2003)
 
@@ -68,4 +62,5 @@ GCSE - 4 A's, 3 B's, C, D
 
 ## Interests
 
-In my spare time I like to cycle (currently in training for the London-to-Brighton bike ride). I help out with a community theatre project where we are working towards opening our own community arts venue in Walthamstow (https://thecentre17.com) I also host/DJ at local movie-themed nights as well as hosting craft-beer tasting events.
+In my spare time I like to cycle (currently in training for the London-to-Brighton bike ride for the British Heart Foundation). I help out with a community theatre project where we are working towards opening our own community arts venue in Walthamstow (https://thecentre17.com)  
+I also host/DJ at local movie-themed nights as well as hosting craft-beer tasting events (https://twitter.com/beerious_london).
