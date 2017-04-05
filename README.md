@@ -1,16 +1,25 @@
-## Your Name
+## Adam Snow
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Freelance/Contract Developer/Consultant - Excel/VBA Specialist, MI Automation, Spreadsheet Solutions
+
+An outcome driven MI developer with a proven track record of developing low-impact processes that create high-impact outputs. Specialises in efficiently turning mass data input into aesthetic and easy-to-understand visuals, insights and analytics. Uses dynamic, flexible and pragmatic approaches to tackle complex business needs, converting challenging requirements into creative bespoke solutions.
+
+Looking to expand from tactical implementations into more strategic, web-based solutions for small, niche businesses
 
 ## Skills
 
-#### This Skill
+#### Excel/VBA/Macros
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Advanced knowledge of Microsoft Excel, developing automated macros, Management Information and tactical toolsets.
+12 years experience in data management for project departments within Financial Services, Construction, Event Management and Consultancy.
+Achievements:
+   Developed data capture and automated collection process for regulatory reporting returns (under the Retail Distribution Review, Short Selling Regime and EMIR regulations) for the Financial Conduct Authority.
+   https://www.fca.org.uk/publication/forms/ps-form-template.xlsx
+   https://www.fca.org.uk/publication/forms/ssr-share-notification-form.xlsx
 
-- Experience
-- Achievements
-- Evidence
+   Automation of monthly finance reporting processes, covering 680 workstreams across 18 portfolios for Balfour Beatty's "Area 10" project.
+
+   Delivery of streamlined MI production capturing regulatory and financial crime issues, automation of resource and recruitment analysis for HSBC Global Regulatory Reporting department.
 
 #### Another Skill
 
@@ -23,7 +32,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (April 2017 to June 2017)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
