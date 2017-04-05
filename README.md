@@ -63,3 +63,7 @@ A-Levels
 #### Leytonstone School (September 1992 to July 1997)
 
 GCSE - 4 A's, 3 B's, C, D
+
+## Interests
+
+In my spare time I like to cycle (currently in training for the London-to-Brighton bike ride). I help out with a community theatre project where we are working towards opening our own community arts venue in Walthamstow (https://thecentre17.com) I also host/DJ at local movie-themed nights as well as hosting craft-beer tasting events.
