@@ -15,7 +15,7 @@ Looking to expand from tactical implementations into more strategic, web-based s
 Advanced knowledge of Microsoft Excel, developing automated macros, Management Information and tactical toolsets.
 12 years experience in data management for project departments within Financial Services, Construction, Event Management and Consultancy.  
 
-####Achievements:  
+#### Achievements 
 
    Developed data capture and automated collection process for regulatory reporting returns (under the Retail Distribution Review, Short Selling Regime and EMIR regulations) for the Financial Conduct Authority.  
 
