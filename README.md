@@ -29,11 +29,11 @@ Achievements:
 **HSBC** (March 2015 to May 2015)   
 *Data and MI Manager*  
 **Balfour Beatty** (February 2015)   
-*MI Developer*
+*MI Developer*  
 **Lloyds Bank PLC** (January 2014 to January 2015)   
-*MI Developer/Analyst*
+*MI Developer/Analyst*  
 **FSA** (July 2010 to January 2014)   
-*Management Information Lead*
+*Management Information Lead*  
 **Royal Bank of Scotland** (April 2005 to July 2010)   
 *Business and Project Support Manager*
 
