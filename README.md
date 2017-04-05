@@ -2,6 +2,8 @@
 
 Freelance/Contract Developer/Consultant - Excel/VBA Specialist, MI Automation, Spreadsheet Solutions
 
+#### About me
+
 An outcome driven MI developer with a proven track record of developing low-impact processes that create high-impact outputs. Specialises in efficiently turning mass data input into aesthetic and easy-to-understand visuals, insights and analytics. Uses dynamic, flexible and pragmatic approaches to tackle complex business needs, converting challenging requirements into creative bespoke solutions.
 
 Looking to expand from tactical implementations into more strategic, web-based solutions for small, niche businesses
