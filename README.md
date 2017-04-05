@@ -11,11 +11,11 @@ Looking to expand from tactical implementations into more strategic, web-based s
 #### Excel/VBA/Macros
 
 Advanced knowledge of Microsoft Excel, developing automated macros, Management Information and tactical toolsets.
-12 years experience in data management for project departments within Financial Services, Construction, Event Management and Consultancy.
-Achievements:
-   Developed data capture and automated collection process for regulatory reporting returns (under the Retail Distribution Review, Short Selling Regime and EMIR regulations) for the Financial Conduct Authority.
-   Example templates:
-   https://www.fca.org.uk/publication/forms/ps-form-template.xlsx
+12 years experience in data management for project departments within Financial Services, Construction, Event Management and Consultancy.  
+Achievements:  
+   Developed data capture and automated collection process for regulatory reporting returns (under the Retail Distribution Review, Short Selling Regime and EMIR regulations) for the Financial Conduct Authority.  
+   Example templates:  
+   https://www.fca.org.uk/publication/forms/ps-form-template.xlsx  
    https://www.fca.org.uk/publication/forms/ssr-share-notification-form.xlsx
 
    Automation of monthly finance reporting processes, covering 680 workstreams across 18 portfolios for Balfour Beatty's "Area 10" project.
