@@ -14,6 +14,7 @@ Advanced knowledge of Microsoft Excel, developing automated macros, Management I
 12 years experience in data management for project departments within Financial Services, Construction, Event Management and Consultancy.
 Achievements:
    Developed data capture and automated collection process for regulatory reporting returns (under the Retail Distribution Review, Short Selling Regime and EMIR regulations) for the Financial Conduct Authority.
+   Example templates:
    https://www.fca.org.uk/publication/forms/ps-form-template.xlsx
    https://www.fca.org.uk/publication/forms/ssr-share-notification-form.xlsx
 
@@ -21,14 +22,20 @@ Achievements:
 
    Delivery of streamlined MI production capturing regulatory and financial crime issues, automation of resource and recruitment analysis for HSBC Global Regulatory Reporting department.
 
-#### Another Skill
+## Experience
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+**FCA** (June 2015 to March 2017)    
+*Special Advisor*  
+**HSBC** (March 2015 to May 2015)   
+*Data and MI Manager*  
+**Balfour Beatty** (February 2015)   
+*MI Developer*
+**Lloyds Bank PLC** (January 2014 to January 2015)   
+*MI Developer/Analyst*
+**FSA** (July 2010 to January 2014)   
+*Management Information Lead*
+**Royal Bank of Scotland** (April 2005 to July 2010)   
+*Business and Project Support Manager*
 
 ## Education
 
@@ -41,17 +48,18 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### Leeds University (Bretton Hall) (September 2000 to June 2003)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Theatre (Acting) BA(hons)
+- 2.1
 
-#### Any other qualifications
+#### Epping Forest College (September 1997 to July 1999)
 
-## Experience
+A-Levels
+- Theatre Studies (C)
+- Photography (C)
+- English Literature (D)
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+#### Leytonstone School (September 1992 to July 1997)
+
+GCSE - 4 A's, 3 B's, C, D
